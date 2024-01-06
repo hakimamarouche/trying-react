@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+In this project I am just trying react. Being more acustomed to Angular, I just wanted to give it a try.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
